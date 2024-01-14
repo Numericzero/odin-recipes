@@ -1,0 +1,39 @@
+h1 {
+    font-family: Georgia, Verdana, 'Lucida Console';
+    color: blue;
+}
+
+h3 {
+    font-family: 'Brush Script MT', 'Lucida Handwriting', 'Times New Roman';
+    font-weight: bold;
+    color: blue;
+}
+
+p, .ingredients, .steps {
+    background-color: burlywood;
+    font-size: 15px;
+    font-family: 'Brush Script MT', 'Lucida Handwriting', 'Times New Roman';
+}
+
+.ingredients li {
+    color: navy;
+}
+
+.steps li {
+    color: navy
+}
+
+#lasagna {
+    height: 500px;
+    width: auto;
+}
+
+#crab-tartlet {
+    height: 400px;
+    width: auto;
+}
+
+#slider {
+    width: 700px;
+    height: auto;
+}
